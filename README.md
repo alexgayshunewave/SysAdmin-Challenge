@@ -17,7 +17,6 @@
 7. On AWS you’re hosting a website with an app server and a database server. You want these two to be able to connect to one another and only open what you need to the internet and office, describe the **AWS security group** setup you would use. 
 8. We setup a Windows staging server for a client website; How would you **secure this website** so only the office and the client’s office can see it?
 9. A Windows **server keeps stalling** how do you start troubleshooting and diagnose the issue?
-10. You have a **CSV file with three columns** - parent group, child group and value. Assuming that programming languages like Perl or Python are unavailable, write a script to generate a multi-line output, where each line is <child group>,<average value> and is filtered by a given parent group.
 11. How, using bash, would you **parse a nginx access log** to find the IP addresses hitting it most frequently? (optional addition to question - you also have to filter out the office IP)
 
 
